@@ -1,6 +1,12 @@
 # py-gsm-at
 Python GSM AT commands call test
 
+## Download the project
+
+```
+git clone git@github.com:alexisthethe/py-gsm-at.git
+```
+
 ## Requirements
 
 * Python
